@@ -1,0 +1,12 @@
+﻿  atom_t.cpp
+  main.cpp
+  molecule_t.cpp
+  readinput.cpp
+  vector3.cpp
+  vector4.cpp
+  writeoutput.cpp
+  正在生成代码
+  All 397 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SAW.vcxproj -> E:\OneDrive\SAW1.0\SAW_debug\Release\SAW.exe
+  SAW.vcxproj -> E:\OneDrive\SAW1.0\SAW_debug\Release\SAW.pdb (Full PDB)

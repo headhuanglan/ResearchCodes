@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SAW", "SAW\SAW.vcproj", "{A942F6A6-7B39-4F5A-A4DB-07DB8D1658C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A942F6A6-7B39-4F5A-A4DB-07DB8D1658C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A942F6A6-7B39-4F5A-A4DB-07DB8D1658C2}.Debug|Win32.Build.0 = Debug|Win32
+		{A942F6A6-7B39-4F5A-A4DB-07DB8D1658C2}.Release|Win32.ActiveCfg = Release|Win32
+		{A942F6A6-7B39-4F5A-A4DB-07DB8D1658C2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+cmake .
+make
+
+
+
+cmake will use CMakeLists.txt to genarate the Makefile
+so that we can make the target SAW
+
+the inputfile is named "input.txt"
+#number_chains
+10
+#chain_length
+should be number_chains integers listed 

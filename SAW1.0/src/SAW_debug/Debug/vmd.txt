@@ -1,0 +1,3 @@
+topo readlammpsdata lammps.data
+pbc box -on
+mol modcolor 0 0 ResID
